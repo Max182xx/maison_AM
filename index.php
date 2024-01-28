@@ -12,7 +12,7 @@ require_once 'vendor/autoload.php';
 
 $tShirt = new TShirt(
     
-    size: 'M',
+    size: 'TOTO test',
     color: 'red',
     price: 29,
     gender: true
