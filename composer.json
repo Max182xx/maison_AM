@@ -1,0 +1,15 @@
+{
+    "name": "mgarc/vetements",
+    "autoload": {
+        "psr-4": {
+            "Mgarc\\Vetements\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Max182xx",
+            "email": "m.garciapro34@gmail.com"
+        }
+    ],
+    "require": {}
+}
